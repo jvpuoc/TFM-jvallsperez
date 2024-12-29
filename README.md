@@ -8,4 +8,4 @@
   -	CNN pequeña (cnn-small-data-augmentation.ipynb).
   -	CNN inspirada en la literatura (cnn-wysiwyg-data-augmentation.ipynb).
   -	CNN con parámetros óptimos (cnn-wysiwyg-use-opt-hyperparams.ipynb).
-*	Inception V3 y TL (inception-v3-and-tl.ipynb).
+  - Inception V3 y TL (inception-v3-and-tl.ipynb).
